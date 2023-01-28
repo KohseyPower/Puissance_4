@@ -1,1 +1,1 @@
-Bonjour, je m'appelle Kohsey et je suis en BUT1. J'ai essaye de reproduire le jeu du Puissance 4. Si vous avez des suggestions ou des raclis à me présenter: voici mon insta [@kohsey_power](https://www.instagram.com/kohsey_power/)
+J'ai essaye de reproduire le jeu du Puissance 4.
